@@ -979,7 +979,7 @@ div.cs-select span {
 
 .half-bg {
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat; }
 
 .fh5co-testimonial, .fh5co-team {
